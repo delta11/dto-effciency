@@ -1,5 +1,5 @@
-type, unmapped, mapped
+type, unmapped(ms), mapped(ms)
 50pct, 40, 40
 75pct, 53, 51
 95pct, 112, 111
-mean, 43, 2
+mean, 43, 42

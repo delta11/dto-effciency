@@ -24,7 +24,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web-services'
     implementation group: 'org.apache.commons', name: 'commons-lang3', version: '3.12.0'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
-//    runtimeOnly 'com.h2database:h2'
-    runtimeOnly 'mysql:mysql-connector-java'
+    runtimeOnly 'com.h2database:h2'
+//    runtimeOnly 'mysql:mysql-connector-java'
     testCompile group: 'io.gatling.highcharts', name: 'gatling-charts-highcharts', version: '3.5.1'
 }
