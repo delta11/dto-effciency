@@ -1,0 +1,10 @@
+{
+  "simulation": "com.example.dtoeffciency.NonMappingSimulation",
+  "simulationId": "nonmappingsimulation",
+  "start": 1615637803132,
+  "description": "",
+  "scenarios": ["NonMappingSimulation"],
+  "assertions": [
+
+  ]
+}

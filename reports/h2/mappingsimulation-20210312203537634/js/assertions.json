@@ -1,0 +1,10 @@
+{
+  "simulation": "com.example.dtoeffciency.MappingSimulation",
+  "simulationId": "mappingsimulation",
+  "start": 1615581337634,
+  "description": "",
+  "scenarios": ["MappingSimulation"],
+  "assertions": [
+
+  ]
+}
